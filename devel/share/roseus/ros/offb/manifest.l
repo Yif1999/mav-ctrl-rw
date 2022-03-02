@@ -1,0 +1,1 @@
+/home/yif/catkin_ws/devel/.private/offb/share/roseus/ros/offb/manifest.l

@@ -1,0 +1,8 @@
+prefix=/home/yif/catkin_ws/devel/.private/ros_gui
+
+Name: ros_gui
+Description: Description of ros_gui
+Version: 0.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

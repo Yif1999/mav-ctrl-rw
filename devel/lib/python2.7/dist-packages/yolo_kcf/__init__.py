@@ -1,0 +1,1 @@
+/home/yif/catkin_ws/devel/.private/yolo_kcf/lib/python2.7/dist-packages/yolo_kcf/__init__.py

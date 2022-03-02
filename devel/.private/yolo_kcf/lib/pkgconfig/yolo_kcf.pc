@@ -1,0 +1,8 @@
+prefix=/home/yif/catkin_ws/devel/.private/yolo_kcf
+
+Name: yolo_kcf
+Description: Description of yolo_kcf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: message_runtime

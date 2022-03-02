@@ -1,0 +1,6 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/vision_to_mavros -B/home/yif/catkin_ws/build/vision_to_mavros --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/vision_to_mavros/CMakeFiles /home/yif/catkin_ws/build/vision_to_mavros//CMakeFiles/progress.marks
+/usr/bin/make -s -f CMakeFiles/Makefile2 all
+[ 50%] Built target vision_to_mavros_node
+[100%] Built target t265_fisheye_undistort_node
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/vision_to_mavros/CMakeFiles 0

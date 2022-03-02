@@ -1,0 +1,1 @@
+/home/yif/catkin_ws/devel/.private/ros_gui/share/ros_gui/cmake/ros_guiConfig-version.cmake

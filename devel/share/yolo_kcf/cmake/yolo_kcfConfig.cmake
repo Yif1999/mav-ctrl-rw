@@ -1,0 +1,1 @@
+/home/yif/catkin_ws/devel/.private/yolo_kcf/share/yolo_kcf/cmake/yolo_kcfConfig.cmake

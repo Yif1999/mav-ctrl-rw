@@ -1,0 +1,12 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/vision_to_mavros -B/home/yif/catkin_ws/build/vision_to_mavros --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/vision_to_mavros/CMakeFiles /home/yif/catkin_ws/build/vision_to_mavros//CMakeFiles/progress.marks
+/usr/bin/make -s -f CMakeFiles/Makefile2 all
+[35m[1mScanning dependencies of target vision_to_mavros_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/vision_to_mavros_node.dir/src/vision_to_mavros.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/yif/catkin_ws/devel/.private/vision_to_mavros/lib/vision_to_mavros/vision_to_mavros_node[0m
+[ 50%] Built target vision_to_mavros_node
+[35m[1mScanning dependencies of target t265_fisheye_undistort_node[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/t265_fisheye_undistort_node.dir/src/t265_fisheye_undistort.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/yif/catkin_ws/devel/.private/vision_to_mavros/lib/vision_to_mavros/t265_fisheye_undistort_node[0m
+[100%] Built target t265_fisheye_undistort_node
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/vision_to_mavros/CMakeFiles 0

@@ -1,0 +1,1 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/offb -B/home/yif/catkin_ws/build/offb --check-build-system CMakeFiles/Makefile.cmake 0

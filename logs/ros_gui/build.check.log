@@ -1,0 +1,1 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/ros_gui -B/home/yif/catkin_ws/build/ros_gui --check-build-system CMakeFiles/Makefile.cmake 0

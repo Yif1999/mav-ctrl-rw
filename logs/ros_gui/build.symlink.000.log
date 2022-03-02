@@ -1,0 +1,4 @@
+Symlinking /home/yif/catkin_ws/devel/lib/pkgconfig/ros_gui.pc
+Symlinking /home/yif/catkin_ws/devel/lib/ros_gui/ros_gui
+Symlinking /home/yif/catkin_ws/devel/share/ros_gui/cmake/ros_guiConfig-version.cmake
+Symlinking /home/yif/catkin_ws/devel/share/ros_gui/cmake/ros_guiConfig.cmake

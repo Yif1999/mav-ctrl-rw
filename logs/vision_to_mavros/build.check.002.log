@@ -1,0 +1,1 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/vision_to_mavros -B/home/yif/catkin_ws/build/vision_to_mavros --check-build-system CMakeFiles/Makefile.cmake 0

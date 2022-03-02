@@ -1,0 +1,5 @@
+/usr/local/bin/cmake -S/home/yif/catkin_ws/src/ros_gui -B/home/yif/catkin_ws/build/ros_gui --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/ros_gui/CMakeFiles /home/yif/catkin_ws/build/ros_gui//CMakeFiles/progress.marks
+/usr/bin/make -s -f CMakeFiles/Makefile2 all
+[100%] Built target ros_gui
+/usr/local/bin/cmake -E cmake_progress_start /home/yif/catkin_ws/build/ros_gui/CMakeFiles 0

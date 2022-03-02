@@ -1,0 +1,1 @@
+/home/yif/catkin_ws/devel/.private/yolo_kcf/share/roseus/ros/yolo_kcf/manifest.l

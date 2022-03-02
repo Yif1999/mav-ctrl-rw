@@ -1,0 +1,27 @@
+Symlinking /home/yif/catkin_ws/devel/lib/offb/fly_to_point
+Symlinking /home/yif/catkin_ws/devel/lib/offb/keyboard_pose_talker
+Symlinking /home/yif/catkin_ws/devel/lib/offb/talker
+Symlinking /home/yif/catkin_ws/devel/lib/offb/read_tf
+Symlinking /home/yif/catkin_ws/devel/lib/offb/listener
+Symlinking /home/yif/catkin_ws/devel/lib/offb/keyboard_vel_controller
+Symlinking /home/yif/catkin_ws/devel/lib/pkgconfig/offb.pc
+Symlinking /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/offb/__init__.py
+Symlinking /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/offb/msg/__init__.py
+Symlinking /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/offb/msg/_target.py
+Symlinking /home/yif/catkin_ws/devel/share/offb/cmake/offb-msg-extras.cmake
+Symlinking /home/yif/catkin_ws/devel/share/offb/cmake/offbConfig-version.cmake
+Symlinking /home/yif/catkin_ws/devel/share/offb/cmake/offbConfig.cmake
+Symlinking /home/yif/catkin_ws/devel/share/offb/cmake/offb-msg-paths.cmake
+Symlinking /home/yif/catkin_ws/devel/share/gennodejs/ros/offb/_index.js
+Symlinking /home/yif/catkin_ws/devel/share/gennodejs/ros/offb/msg/target.js
+Symlinking /home/yif/catkin_ws/devel/share/gennodejs/ros/offb/msg/_index.js
+Symlinking /home/yif/catkin_ws/devel/share/common-lisp/ros/offb/msg/_package.lisp
+Symlinking /home/yif/catkin_ws/devel/share/common-lisp/ros/offb/msg/offb-msg.asd
+Symlinking /home/yif/catkin_ws/devel/share/common-lisp/ros/offb/msg/target.lisp
+Symlinking /home/yif/catkin_ws/devel/share/common-lisp/ros/offb/msg/_package_target.lisp
+Symlinking /home/yif/catkin_ws/devel/share/roseus/ros/offb/manifest.l
+Symlinking /home/yif/catkin_ws/devel/share/roseus/ros/offb/msg/target.l
+Symlinking /home/yif/catkin_ws/devel/include/offb/target.h
+Cleaning: (/home/yif/catkin_ws/devel/.private/offb/lib/offb/keyboard_controller, /home/yif/catkin_ws/devel/lib/offb/keyboard_controller)
+Unlinking: /home/yif/catkin_ws/devel/lib/offb/keyboard_controller
+Already unlinked: {}

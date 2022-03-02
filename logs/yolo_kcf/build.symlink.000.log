@@ -1,0 +1,40 @@
+Symlinking /home/yif/catkin_ws/devel/lib/pkgconfig/yolo_kcf.pc
+Symlinking /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/yolo_kcf/__init__.py
+Symlinking /home/yif/catkin_ws/devel/share/roseus/ros/yolo_kcf/manifest.l
+Symlinking /home/yif/catkin_ws/devel/share/yolo_kcf/cmake/yolo_kcf-msg-paths.cmake
+Symlinking /home/yif/catkin_ws/devel/share/yolo_kcf/cmake/yolo_kcfConfig-version.cmake
+Symlinking /home/yif/catkin_ws/devel/share/yolo_kcf/cmake/yolo_kcf-msg-extras.cmake
+Symlinking /home/yif/catkin_ws/devel/share/yolo_kcf/cmake/yolo_kcfConfig.cmake
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/lib/python2.7/dist-packages/yolo_kcf/msg/__init__.py, /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/yolo_kcf/msg/__init__.py)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/lib/python2.7/dist-packages/yolo_kcf/msg/_image_coordinate.py, /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/yolo_kcf/msg/_image_coordinate.py)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/gennodejs/ros/yolo_kcf/_index.js, /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/_index.js)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/gennodejs/ros/yolo_kcf/msg/image_coordinate.js, /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/msg/image_coordinate.js)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/gennodejs/ros/yolo_kcf/msg/_index.js, /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/msg/_index.js)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/common-lisp/ros/yolo_kcf/msg/_package_image_coordinate.lisp, /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/_package_image_coordinate.lisp)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/common-lisp/ros/yolo_kcf/msg/_package.lisp, /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/_package.lisp)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/common-lisp/ros/yolo_kcf/msg/yolo_kcf-msg.asd, /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/yolo_kcf-msg.asd)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/common-lisp/ros/yolo_kcf/msg/image_coordinate.lisp, /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/image_coordinate.lisp)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/share/roseus/ros/yolo_kcf/msg/image_coordinate.l, /home/yif/catkin_ws/devel/share/roseus/ros/yolo_kcf/msg/image_coordinate.l)
+Cleaning: (/home/yif/catkin_ws/devel/.private/yolo_kcf/include/yolo_kcf/image_coordinate.h, /home/yif/catkin_ws/devel/include/yolo_kcf/image_coordinate.h)
+Unlinking: /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/yolo_kcf/msg/__init__.py
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/lib/python2.7/dist-packages/yolo_kcf/msg/_image_coordinate.py
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/_index.js
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/msg/image_coordinate.js
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/gennodejs/ros/yolo_kcf/msg/_index.js
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/_package_image_coordinate.lisp
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/_package.lisp
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/yolo_kcf-msg.asd
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/common-lisp/ros/yolo_kcf/msg/image_coordinate.lisp
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/share/roseus/ros/yolo_kcf/msg/image_coordinate.l
+Already unlinked: {}
+Unlinking: /home/yif/catkin_ws/devel/include/yolo_kcf/image_coordinate.h
+Already unlinked: {}
